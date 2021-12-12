@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate for Web Desiging
+- 🌱 I’m currently Working as a Game Trainee
 - 📫 E-Mail: tusharsaxena771@gmail.com
 <br/><br/>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&theme=tokyonight)<br/>-->
