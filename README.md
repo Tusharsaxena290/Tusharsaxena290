@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&theme=tokyonight)<br/>-->
 ## Git Status
 
-![languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tusharsaxena290&layout=compact&hide=css,issues&theme=tokyonight)
+![languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tusharsaxena290&layout=compact,issues&theme=tokyonight)
 
 <!--![Streak](https://github-readme-streak-stats.herokuapp.com/?user=0124hitesh&show_icons=true&theme=tokyonight)<br/>-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusharsaxena290&count_private=true&theme=tokyonight)<br/>
