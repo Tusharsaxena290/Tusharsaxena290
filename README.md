@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently Working as a Game Dev Trainee
+<!--
+🌱 I’m currently Working as a Game Dev Trainee
+-->
 - 📫 E-Mail: tusharsaxena771@gmail.com
 <br/><br/>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&theme=tokyonight)<br/>-->
